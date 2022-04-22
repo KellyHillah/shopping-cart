@@ -1,0 +1,73 @@
+.headnav{
+	background-color: white;
+}
+
+.size{
+	color: black;
+}
+
+.product{
+	margin-left: 200px;
+	color: black;
+	padding-left: 20px;
+}
+
+.orderby{
+	color: black;
+}
+
+.select{
+	color: black;
+	border: solid black 2px;
+}
+
+.button{
+	border-radius: 50px;
+	border: none;
+	width: 50px;
+	height: 50px;
+	margin-bottom: 15px;
+
+
+}
+
+
+.freeshipping{
+	text-align: right;
+	background-color: black;
+	color: white;
+	margin-left: 100px;
+}
+hr{
+	color: gold;
+	width: 20px;
+	border: solid gold 1px;
+}
+
+.main{
+	text-align: center;
+	font-size: xx-large;
+}
+
+.bulk{
+	color: gray;
+	text-align: center;
+}
+
+.cart{
+	background-color: black;
+	width: 205px;
+	padding-left: 3px;
+	margin-left: -10px;
+	margin-bottom: -15px;
+
+}
+
+.thumbnail{
+	border: solid white;
+}
+
+img{
+	height: 500px;
+	width: 200px;
+}
